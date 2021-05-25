@@ -15,3 +15,5 @@ Some text for the develop branch's third commit
 Some text for the develop branch's forth commit
 
 Some text for the develop branch's fifth commit
+
+Some text for the develop branch's sixth commit
