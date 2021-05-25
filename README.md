@@ -1,5 +1,7 @@
 # hometask_2
 
+Some text for the git advanced actions in main branch
+
 Some text for the second commit
 
 Some text for the third commit
